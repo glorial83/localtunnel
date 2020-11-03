@@ -3,7 +3,7 @@ const { listenerCount } = require("process");
 
 try {
   localtunnel(9080, { subdomain: "take" }, function (err, tunnel) {
-    console.log("localtunner is running");
+    console.log("localtunner is running!!");
   });
 } catch (exception) {
   console.log(exception);
