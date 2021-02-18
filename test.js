@@ -10,6 +10,9 @@ try {
 }
 
 /*
+외부에서 내부네트워크로 접속하기
+https://take.localtunnel.me/ 으로 시작하면 됨
+
 forever list
 forever start test.js
 forever stopall
